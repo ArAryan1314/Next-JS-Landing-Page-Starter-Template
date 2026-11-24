@@ -1,3 +1,13 @@
+<!-- fork-notice:start -->
+
+> **About this fork:** maintained copy of [ixartz/Next-JS-Landing-Page-Starter-Template](https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template), used for learning and integration. All credit for the original work goes to its authors. License: MIT (see `LICENSE`).
+>
+> **Live demo (upstream):** <https://creativedesignsguru.com>
+>
+> [![Standard CI](https://github.com/ArAryan1314/Next-JS-Landing-Page-Starter-Template/actions/workflows/standard-ci.yml/badge.svg)](https://github.com/ArAryan1314/Next-JS-Landing-Page-Starter-Template/actions/workflows/standard-ci.yml)
+
+<!-- fork-notice:end -->
+
 # Landing Page Template built with Next JS 14+, Tailwind CSS 3 and TypeScript [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ixartz)](https://twitter.com/ixartz)
 
 <p align="center">
